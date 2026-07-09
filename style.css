@@ -301,7 +301,8 @@ nav a:not(.btn):hover {
     margin-bottom: 1.5rem;
 }
 
-.doc-content ul {
+.doc-content ul,
+.doc-content ol {
     color: var(--text-secondary);
     margin-bottom: 1.5rem;
     padding-left: 1.5rem;
